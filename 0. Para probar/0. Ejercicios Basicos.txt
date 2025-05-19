@@ -1,0 +1,61 @@
+Ejercicios Básicos de Python:
+
+1. Hola Personalizado:
+
+Escribe un programa que pregunte al usuario su nombre y luego imprima un saludo personalizado 
+(ej. "Hola, [nombre]!").
+2. Calculadora Simple:
+
+Crea un programa que realice las cuatro operaciones aritméticas básicas (+, -, *, /) 
+entre dos números ingresados por el usuario.
+3. Mayor de Dos Números:
+
+Escribe un programa que tome dos números como entrada y determine cuál de los dos es mayor 
+(o si son iguales).
+4. Par o Impar:
+
+Crea un programa que pregunte al usuario un número y determine si es par o impar.
+5. Suma de Números en un Rango:
+
+Escribe un programa que calcule la suma de todos los números enteros en un rango específico 
+(ej. de 1 a 10).
+6. Tabla de Multiplicar:
+
+Crea un programa que pregunte al usuario un número y luego imprima su tabla de multiplicar 
+hasta el 10.
+7. Contador de Vocales:
+
+Escribe un programa que tome una cadena de texto como entrada y cuente el número de vocales 
+(a, e, i, o, u) que contiene. (Considera mayúsculas y minúsculas).
+8. Inversión de Cadena:
+
+Crea un programa que tome una cadena de texto como entrada y la imprima al revés.
+9. Factorial de un Número:
+
+Escribe un programa que calcule el factorial de un número entero positivo ingresado por el usuario.
+10. Adivina el Número (Juego Simple):
+* Genera un número aleatorio entre 1 y 100.
+* Pídele al usuario que adivine el número.
+* Dale pistas al usuario si su intento es demasiado alto o demasiado bajo.
+* El juego termina cuando el usuario adivina el número correcto.
+
+11. Lista de Compras:
+* Crea un programa que permita al usuario ingresar elementos a una lista de compras hasta que 
+ingrese la palabra "fin". Luego, imprime la lista de compras completa.
+
+12. Palíndromo:
+* Escribe un programa que tome una cadena de texto como entrada y determine si es un palíndromo 
+(se lee igual de izquierda a derecha que de derecha a izquierda).
+
+Consejos para Abordar los Ejercicios:
+
+Planifica: Antes de escribir código, piensa en los pasos lógicos que tu programa debe seguir. 
+Puedes incluso escribir un pseudocódigo.
+Escribe código claro y legible: Utiliza nombres de variables descriptivos y añade comentarios 
+si es necesario.
+Prueba tu código: Ejecuta tu programa con diferentes entradas para asegurarte de que funciona 
+correctamente en todos los casos.
+Depura: Si tu código no funciona como esperas, utiliza herramientas de depuración o imprime 
+valores de variables para entender qué está sucediendo.
+Busca ayuda si te atascas: No dudes en consultar la documentación de Python, buscar tutoriales 
+en línea o preguntar a compañeros o profesores si encuentras dificultades.

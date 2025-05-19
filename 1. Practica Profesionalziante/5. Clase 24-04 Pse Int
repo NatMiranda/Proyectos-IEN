@@ -1,0 +1,67 @@
+Proceso EjercicioBarrio
+	Definir barrio Como Caracter;
+	Definir contZN, contZS Como Entero;
+	
+	/// Contadores
+	contZN <- 0;
+	contZS <- 0;
+	/// Nombre de los barrios
+	barrio <- "";
+	
+	Mientras Minusculas(barrio) <> "fin" Hacer
+		Escribir "Ingrese el nombre del barrio: ";
+		Escribir "Si quiere finalizar el programa ingrese: ", "FIN";
+		Leer barrio;
+		
+		/// Zona Norte
+		/// Barrio Paykin
+		/// Barrio Atlantico Sur
+		/// Villa Rio Negro
+		
+		Si Minusculas(barrio) == "barrio paykin" Entonces
+			Escribir "Este barrio se encuentra en zona norte :)";
+			contZN <- contZN + 1;
+			Escribir "Esta zona se consultó: ", contZN , " veces.";
+		FinSi
+		Si Minusculas(barrio) == "barrio atlantico sur" Entonces
+			Escribir "Este barrio se encuentra en zona norte :)";
+			contZN <- contZN + 1;
+			Escribir "Esta zona se consultó: ", contZN , " veces.";
+		FinSi
+		Si Minusculas(barrio) == "villa rio negro" Entonces
+			Escribir "Este barrio se encuentra en zona norte :)";
+			contZN <- contZN + 1;
+			Escribir "Esta zona se consultó: ", contZN , " veces.";
+		FinSi
+		
+		/// Barrios de Zona Sur
+		/// Barrio Mujeres Argentinas
+		/// Barrio Quebracho 
+		/// Barrio Santa Ines	
+		
+		Si Minusculas(barrio) == "barrio mujeres argentinas" Entonces
+			Escribir "Este barrio se encuentra en zona sur :)";
+			contZS <- contZS + 1;
+			Escribir "Esta zona se consultó: ", contZS , " veces.";
+		FinSi
+		Si Minusculas(barrio) == "barrio quebracho" Entonces
+			Escribir "Este barrio se encuentra en zona sur :)";
+			contZS <- contZS + 1;
+			Escribir "Esta zona se consultó: ", contZS , " veces.";
+		FinSi		
+		Si Minusculas(barrio) == "barrio santa ines" Entonces
+			Escribir "Este barrio se encuentra en zona sur :)";
+			contZS <- contZS + 1;
+			Escribir "Esta zona se consultó: ", contZS , " veces.";
+		FinSi
+		
+		/// Mensaje de fin.
+		
+		Si Minusculas(barrio) == "fin" Entonces
+			Escribir "Gracias por utilizar este programa";
+		FinSi
+		Escribir "--------------";
+	FinMientras
+	
+FinProceso
+

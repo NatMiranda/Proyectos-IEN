@@ -1,0 +1,11 @@
+A good software developer writes clean and efficient code. They use powerful tools like text editors, debuggers, and
+version control systems. The developer tests the program carefully to find and fix errors. A fast computer helps them
+work better. Some words in programming, like “actual,” look familiar but have different meanings in English. Learning
+technical terms and grammar improves communication in the tech world.
+
+Un buen desarrollador de software escribe código de manera eficiente y limpia. Usan potentes herramientas como 
+editores de texto, depuradores y sistemas de control de versiones. El desarrollador pone a prueba el programa de
+manera detallada para encontrar y solucionar errores. Una computadora rápida los ayuda a trabajar mejor. Algunas
+palabras en la programación, como "actual", lucen familiares pero tienen diversos significados en ingles. Aprender 
+términos técnicos y la gramática mejora la comunicación en el area de tecnología.
+
